@@ -1,0 +1,5 @@
+name: Server
+version: 1.0.0
+description: Server managing.
+authors: [TigerHix]
+main: com.minecade.dtbserver.Main
